@@ -1,0 +1,30 @@
+.container {
+    background-color: rgb(0, 0, 0);
+    text-align: center;
+    padding: 10px;
+  }
+  h1 {
+    color: aliceblue;
+    text-align: center;
+  }
+  p{
+    color: aliceblue;
+    text-align: center;
+  }
+  body{
+    background-color: yellowgreen;
+  }
+  
+  button{
+    background-color: rgb(185, 185, 215);
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 10px;
+  }
+  
+  button:hover {
+    background-color: rgb(150, 150, 200);
+  }
